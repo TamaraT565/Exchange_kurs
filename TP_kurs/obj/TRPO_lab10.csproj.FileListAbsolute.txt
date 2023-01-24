@@ -1,0 +1,30 @@
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\bin\Debug\TRPO_lab10.exe.config
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\bin\Debug\ChangeDatabase.mdf
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\bin\Debug\ChangeDatabase_log.ldf
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\bin\Debug\TRPO_lab10.exe
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\bin\Debug\TRPO_lab10.pdb
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.Main.resources
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.Properties.Resources.resources
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.csproj.GenerateResource.Cache
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.exe
+C:\Documents and Settings\Yacut\Мои документы\Visual Studio 2005\Projects\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.pdb
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\bin\Debug\TRPO_lab10.exe.config
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.exe
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.pdb
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\bin\Debug\ChangeDatabase.mdf
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\bin\Debug\ChangeDatabase_log.ldf
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\bin\Debug\TRPO_lab10.exe
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\bin\Debug\TRPO_lab10.pdb
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.Main.resources
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.Properties.Resources.resources
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.csproj.GenerateResource.Cache
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.Enter.resources
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.AddKassir.resources
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.ChangeBuy.resources
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.ChangeSell.resources
+C:\Documents and Settings\Yacut\Рабочий стол\VeraTRPO_lab10\TRPO_lab10\TRPO_lab10\TRPO_lab10\obj\Debug\TRPO_lab10.About.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\bin\Debug\TRPO_lab10.exe.config
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.exe
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.pdb

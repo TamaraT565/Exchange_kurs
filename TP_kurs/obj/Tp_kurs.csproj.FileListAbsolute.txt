@@ -1,0 +1,48 @@
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\bin\Debug\ChangeDatabase.mdf
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\bin\Debug\ChangeDatabase_log.ldf
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\bin\Debug\TRPO_lab10.exe.config
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\bin\Debug\TRPO_lab10.exe
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\bin\Debug\TRPO_lab10.pdb
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\ResolveAssemblyReference.cache
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.About.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.ChangeBuy.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.ChangeSell.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.Enter.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.Main.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.Properties.Resources.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.Sotrudniki.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\Tp_kurs.csproj.GenerateResource.Cache
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.exe
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TRPO_lab10\obj\Debug\TRPO_lab10.pdb
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.exe.config
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.exe
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.pdb
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\ChangeDatabase.mdf
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\ChangeDatabase_log.ldf
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.exe
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.pdb
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\ResolveAssemblyReference.cache
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.About.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.ChangeBuy.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.ChangeSell.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Enter.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Main.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Properties.Resources.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Sotrudniki.resources
+D:\Education\ТРПО\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\Tp_kurs.csproj.GenerateResource.Cache
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.exe.config
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.exe
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.pdb
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\ChangeDatabase.mdf
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\ChangeDatabase_log.ldf
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.exe
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.pdb
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.About.resources
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.ChangeBuy.resources
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.ChangeSell.resources
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Enter.resources
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Main.resources
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Properties.Resources.resources
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Sotrudniki.resources
+C:\Documents and Settings\Max\Рабочий стол\Курсовые\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\Tp_kurs.csproj.GenerateResource.Cache

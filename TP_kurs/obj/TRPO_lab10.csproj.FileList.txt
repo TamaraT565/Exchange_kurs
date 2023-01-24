@@ -1,0 +1,16 @@
+bin\Debug\TRPO_lab10.exe.config
+obj\Debug\TRPO_lab10.exe
+obj\Debug\TRPO_lab10.pdb
+bin\Debug\ChangeDatabase.mdf
+bin\Debug\ChangeDatabase_log.ldf
+bin\Debug\TRPO_lab10.exe
+bin\Debug\TRPO_lab10.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TRPO_lab10.Main.resources
+obj\Debug\TRPO_lab10.Properties.Resources.resources
+obj\Debug\TRPO_lab10.csproj.GenerateResource.Cache
+obj\Debug\TRPO_lab10.About.resources
+obj\Debug\TRPO_lab10.ChangeBuy.resources
+obj\Debug\TRPO_lab10.ChangeSell.resources
+obj\Debug\TRPO_lab10.Enter.resources
+obj\Debug\TRPO_lab10.Sotrudniki.resources

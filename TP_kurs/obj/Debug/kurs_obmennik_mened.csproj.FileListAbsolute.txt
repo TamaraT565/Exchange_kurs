@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\kurs_obmennik_mened.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.ChangeBuy.resources
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.ChangeSell.resources
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Enter.resources
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Main.resources
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Properties.Resources.resources
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\kurs_obmennik_mened.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\kurs_obmennik_mened.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.exe
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.pdb
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Operator.resources
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.exe.config
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.exe
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\bin\Debug\TRPO_lab10.pdb
+C:\Users\Admin\Desktop\Обменный пункт\Обменный пункт\TP_kurs\obj\Debug\TRPO_lab10.Events.resources
